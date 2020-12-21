@@ -1,2 +1,2 @@
 # effective-eureka
-Personal Python Projects
+simple personal Python Projects
